@@ -1,3 +1,3 @@
 # hello-world
 Ashly Koshy is great!!!
-She doesnt think this hsould be public!
+She doesnt think this should be public!
